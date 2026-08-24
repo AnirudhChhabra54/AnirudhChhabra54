@@ -15,9 +15,21 @@
 ```javascript
 const Anirudh = {
   education: "B.Tech CSE @ UPES (2022–2026, 8.06 CGPA)",
-  experience: ["Ex-Machine Learning Intern @ IBM", "Ex-Data Science Intern @ Food4Thought"],
-  focusAreas: ["Agentic AI Workflows", "3D WebXR Platforms", "Edge Computer Vision", "Domain-Specific Compilers"],
-  currentlyExploring: ["Multi-Agent Reasoning Graphs", "Local Embedded LLMs", "Spatial Web Interfaces"]
+  experience: [
+    "Ex-Machine Learning Intern @ IBM",
+    "Ex-Data Science Intern @ Food4Thought"
+  ],
+  focusAreas: [
+    "Agentic AI Workflows",
+    "3D WebXR Platforms",
+    "Edge Computer Vision",
+    "Domain-Specific Compilers"
+  ],
+  currentlyExploring: [
+    "Multi-Agent Reasoning Graphs",
+    "Local Embedded LLMs",
+    "Spatial Web Interfaces"
+  ]
 };
 ```
 
@@ -152,8 +164,8 @@ const Anirudh = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnirudhChhabra54&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anirudh's GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnirudhChhabra54&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnirudhChhabra54&theme=tokyonight" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnirudhChhabra54&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <br/>
