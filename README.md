@@ -12,6 +12,15 @@
 </p>
 
 
+```javascript
+const Anirudh = {
+  education: "B.Tech CSE @ UPES (2022–2026, 8.06 CGPA)",
+  experience: ["Ex-Machine Learning Intern @ IBM", "Ex-Data Science Intern @ Food4Thought"],
+  focusAreas: ["Agentic AI Workflows", "3D WebXR Platforms", "Edge Computer Vision", "Domain-Specific Compilers"],
+  currentlyExploring: ["Multi-Agent Reasoning Graphs", "Local Embedded LLMs", "Spatial Web Interfaces"]
+};
+```
+
 ---
 
 </div>
@@ -143,8 +152,14 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnirudhChhabra54&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anirudh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnirudhChhabra54&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnirudhChhabra54&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anirudh's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnirudhChhabra54&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnirudhChhabra54&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" width="95%" />
 </div>
 
 <br/>
