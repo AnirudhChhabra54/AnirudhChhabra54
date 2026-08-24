@@ -35,30 +35,56 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:590D22,50:A4133C,100:C9184A&height=3&section=header" width="100%" alt="divider" />
 
 <!-- ============================= ABOUT ME ============================= -->
+<!-- ============================= ABOUT ME ============================= -->
 <h2 align="center">✨ About Me</h2>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/B.Tech_CSE_'26-UPES_Dehradun-A4133C?style=for-the-badge&labelColor=1B0A10&logo=googlescholar&logoColor=FFB3C1" alt="education" />
+  <img src="https://img.shields.io/badge/Ex--ML_Intern-IBM-800F2F?style=for-the-badge&labelColor=1B0A10&logo=ibm&logoColor=FFB3C1" alt="ibm" />
+  <img src="https://img.shields.io/badge/CGPA-8.06%2F10-C9184A?style=for-the-badge&labelColor=1B0A10" alt="cgpa" />
+  <img src="https://img.shields.io/badge/Edge_Model_Accuracy-99.86%25-590D22?style=for-the-badge&labelColor=1B0A10&logo=tensorflow&logoColor=FFB3C1" alt="accuracy" />
+</div>
+
+<br />
+
+<img align="right" width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnirudhChhabra54&theme=github_dark" alt="Most committed languages" />
+
+<!-- Fallback if the card above ever breaks: swap the src for
+     https://skillicons.dev/icons?i=python,cpp,ts,react,threejs,fastapi&theme=dark&perline=3 -->
+
+I design systems where the **model is the easy part** — the orchestration, latency budget, and privacy boundary are the real work.
+
+**🤖 &nbsp;Agentic AI** — LangGraph multi-agent graphs with human-in-the-loop approval gates\
+**👁️ &nbsp;Edge Vision** — 468-landmark inference fully in-browser, zero bytes uploaded\
+**🕶️ &nbsp;Spatial Web** — Three.js + WebXR analytics surfaces holding 60fps\
+**⚙️ &nbsp;Systems** — C++17 DSL compiler: Lex/Yacc → AST passes → codegen\
+**🔬 &nbsp;Exploring** — reasoning graphs, local embedded LLMs, spatial interfaces
+
+<br clear="both" />
+
 <table>
-  <tr>
-    <td width="65%" valign="top">
-      <ul>
-        <li>🎓 <b>B.Tech CSE @ UPES</b> — 2022–2026, <b>8.06 CGPA</b>, Dehradun, India</li>
-        <li>💼 Ex-<b>Machine Learning Intern @ IBM</b> &nbsp;•&nbsp; Ex-<b>Data Science Intern @ Food4Thought</b></li>
-        <li>🤖 I build <b>multi-agent AI systems</b> — LangGraph orchestration, RAG retrieval, human-in-the-loop verification</li>
-        <li>🕶️ I ship <b>spatial web experiences</b> — Three.js + WebXR analytics platforms running at 60fps</li>
-        <li>👁️ I run <b>vision models on the edge</b> — 468-landmark inference fully in-browser, zero data leaves the device</li>
-        <li>⚙️ I write <b>systems software</b> — a C++17 DSL compiler with Lex/Yacc, AST passes, and a React tooling dashboard</li>
-        <li>🔬 Currently exploring <b>multi-agent reasoning graphs</b>, <b>local embedded LLMs</b>, and <b>spatial web interfaces</b></li>
-        <li>🌐 Portfolio → <a href="https://portfolio-kohl-delta-0ouw6ltoj2.vercel.app/"><b>portfolio-kohl-delta.vercel.app</b></a></li>
-        <li>📫 Reach me at <b>anirudhchhabra02@gmail.com</b></li>
-      </ul>
-    </td>
-    <td width="35%" valign="top" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=AnirudhChhabra54&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=C9184A&icon_color=A4133C&text_color=FFB3C1&bg_color=0D1117&ring_color=C9184A" alt="GitHub stats" />
-      <br /><br />
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnirudhChhabra54&layout=compact&langs_count=8&hide_border=true&title_color=C9184A&text_color=FFB3C1&bg_color=0D1117" alt="Top languages" />
-    </td>
-  </tr>
+<tr><td>
+
+**🔨 Right now** — shipping [LeadSync Agent](https://github.com/AnirudhChhabra54/LeadSync_Agent), turning visiting cards & voice notes into verified CRM rows\
+**🌐 Portfolio** — [portfolio-kohl-delta.vercel.app](https://portfolio-kohl-delta-0ouw6ltoj2.vercel.app/)\
+**📫 Email** — anirudhchhabra02@gmail.com\
+**🎯 Open to** — full-time AI/ML engineering roles from 2026
+
+</td></tr>
 </table>
+
+<details>
+<summary><b>📖 &nbsp;The longer version</b></summary>
+
+<br />
+
+- 🎓 **B.Tech CSE @ UPES Dehradun** (2022–2026), 8.06 CGPA
+- 💼 **Ex-Machine Learning Intern @ IBM** — production ML workflows
+- 📊 **Ex-Data Science Intern @ Food4Thought** — analytics & modelling
+- 🧠 My through-line is **constraint-driven design**: DriveGuard runs entirely client-side because uploading a driver's face is unacceptable; Simpli-Trip runs on local LM Studio because itineraries shouldn't need an API budget; DataFlux exists because Python was the bottleneck, not the algorithm.
+- 🎧 Off-keyboard: strength training, and an unreasonable number of Notion dashboards
+
+</details>
 
 ```js
 const Anirudh = {
@@ -68,11 +94,12 @@ const Anirudh = {
                        "Edge Computer Vision", "Domain-Specific Compilers"],
   currentlyExploring: ["Multi-Agent Reasoning Graphs", "Local Embedded LLMs",
                        "Spatial Web Interfaces"],
+  askMeAbout:         ["LangGraph state machines", "TF.js quantization",
+                       "Lex/Yacc grammars", "WebXR performance"],
   architecture:       "design for the constraint, then make it feel effortless",
+  openTo:             "AI / ML engineering roles — 2026",
 };
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:590D22,50:A4133C,100:C9184A&height=3&section=header" width="100%" alt="divider" />
 
 <!-- ============================= TECH STACK ============================= -->
 <h2 align="center">🛠️ Tech Stack & Tooling</h2>
