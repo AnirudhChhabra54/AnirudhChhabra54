@@ -86,20 +86,6 @@ I design systems where the **model is the easy part** — the orchestration, lat
 
 </details>
 
-```js
-const Anirudh = {
-  education:          "B.Tech CSE @ UPES (2022–2026, 8.06 CGPA)",
-  experience:         ["Ex-ML Intern @ IBM", "Ex-Data Science Intern @ Food4Thought"],
-  focusAreas:         ["Agentic AI Workflows", "3D WebXR Platforms",
-                       "Edge Computer Vision", "Domain-Specific Compilers"],
-  currentlyExploring: ["Multi-Agent Reasoning Graphs", "Local Embedded LLMs",
-                       "Spatial Web Interfaces"],
-  askMeAbout:         ["LangGraph state machines", "TF.js quantization",
-                       "Lex/Yacc grammars", "WebXR performance"],
-  architecture:       "design for the constraint, then make it feel effortless",
-  openTo:             "AI / ML engineering roles — 2026",
-};
-```
 
 <!-- ============================= TECH STACK ============================= -->
 <h2 align="center">🛠️ Tech Stack & Tooling</h2>
