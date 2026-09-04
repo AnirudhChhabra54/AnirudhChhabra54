@@ -1,12 +1,8 @@
 <!-- ============================= BANNER ============================= -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2B0510,50:590D22,100:A4133C&height=200&section=header&text=Anirudh%20Chhabra&fontSize=52&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer%20%26%20Systems%20Architect&descSize=18&descAlignY=58" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:590D22,50:800F2F,100:C9184A&height=200&section=header&text=Anirudh%20Chhabra&fontSize=52&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer%20%26%20Systems%20Architect&descSize=18&descAlignY=58" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:590D22,50:800F2F,100:C9184A&height=200&section=header&text=Anirudh%20Chhabra&fontSize=52&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn" alt="banner" width="100%" />
-  </picture>
-</div>
 
+<div align="center">
+  <img src="./Header.png" alt="Anirudh Chhabra - AI / ML Engineer & Systems Architect" width="100%" />
+</div>
 <!-- ============================= TITLE ============================= -->
 <h1 align="center">Hey there, I'm Anirudh Chhabra 👋</h1>
 
@@ -281,9 +277,5 @@ I design systems where the **model is the easy part** — the orchestration, lat
 
 <!-- ============================= FOOTER ============================= -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:A4133C,50:590D22,100:2B0510&height=150&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=28&fontColor=FFFFFF&fontAlignY=70&animation=twinkling" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:C9184A,50:800F2F,100:590D22&height=150&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=28&fontColor=FFFFFF&fontAlignY=70&animation=twinkling" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9184A,50:800F2F,100:590D22&height=150&section=footer" alt="footer" width="100%" />
-  </picture>
+  <img src="./Footer.png" alt="Thanks for stopping by!" width="100%" />
 </div>
